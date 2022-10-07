@@ -1,0 +1,46 @@
+.para {
+    color: red;
+    margin-bottom: 50px;
+    border: 1px solid green;
+    padding: 20px;
+}
+
+.para-external {
+    color: blue;
+    background-color: beige;
+}
+
+.box {
+    border: 1px solid rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+}
+
+.div {
+    font-size-adjust: 0.58;
+  }
+
+.div.a {
+    font-size: 35px;
+  }
+  
+.div.b {
+    font-size: large;
+  }
+  
+.div.c {
+    font-size: 150%;
+  }
+
+.div.d {
+    text-align: center;
+}
+
+.bluediv {
+    font-family: "Raleway", sans-serif;
+    background-color: lightblue;
+}
+
+.bluediv2 {
+        margin: auto;
+}
